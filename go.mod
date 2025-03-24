@@ -3,7 +3,7 @@ module github.com/gripmock/json
 go 1.24
 
 require (
-	github.com/bytedance/sonic v1.13.1
+	github.com/bytedance/sonic v1.13.2
 	github.com/goccy/go-json v0.10.5
 )
 
